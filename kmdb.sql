@@ -93,8 +93,6 @@
 
 -- The SQL statement for the cast output
 -- TODO!
-DROP TABLE IF EXISTS movies;
-DROP TABLE IF EXISTS top_cast;
 
 CREATE TABLE movies (
     id INTEGER PRIMARY AUTOINCREMENT, 
